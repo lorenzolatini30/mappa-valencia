@@ -1,0 +1,14 @@
+{
+  "name": "Mappa Trasporti Valencia",
+  "short_name": "Mappa Valencia",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a73e8",
+  "icons": [
+    {
+      "src": "icona-app.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
